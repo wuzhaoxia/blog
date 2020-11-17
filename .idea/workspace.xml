@@ -20,18 +20,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="994537ce-fe99-4a9a-96f2-ecb4b592cc69" name="Default Changelist" comment="制作个人博客第一天">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_admin/model/article.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_admin/route/admin/article-add.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_admin/route/admin/loginPage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_admin/route/admin/loginout.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_admin/route/admin/user-delete.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_admin/route/admin/user-modify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_admin/route/home/article.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_admin/route/home/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_admin/views/home/common/header.art" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_admin/views/home/common/layout.art" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/joi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/middleware/loginGuard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/admin/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/home/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/home/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/myadmin/article-edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/myadmin/article.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/myadmin/css/user.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/myadmin/css/user.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/myadmin/css/user.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/myadmin/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/myadmin/user-edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/myadmin/user.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/myhome/article.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/myhome/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/myhome/css/index.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/myhome/css/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/myhome/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/route/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/route/admin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/route/admin/article-add.js" beforeDir="false" afterPath="$PROJECT_DIR$/route/admin/article-add.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/route/admin/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/route/admin/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/route/admin/loginout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/route/myadmin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/route/myhome.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/admin/article-edit.art" beforeDir="false" afterPath="$PROJECT_DIR$/views/admin/article-edit.art" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/admin/article.art" beforeDir="false" afterPath="$PROJECT_DIR$/views/admin/article.art" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/admin/common/aside.art" beforeDir="false" afterPath="$PROJECT_DIR$/views/admin/common/aside.art" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/admin/common/header.art" beforeDir="false" afterPath="$PROJECT_DIR$/views/admin/common/header.art" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/admin/login.art" beforeDir="false" afterPath="$PROJECT_DIR$/views/admin/login.art" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/admin/user-edit.art" beforeDir="false" afterPath="$PROJECT_DIR$/views/admin/user-edit.art" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/admin/user.art" beforeDir="false" afterPath="$PROJECT_DIR$/views/admin/user.art" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/home/article.art" beforeDir="false" afterPath="$PROJECT_DIR$/views/home/article.art" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/home/common/header.art" beforeDir="false" afterPath="$PROJECT_DIR$/views/home/common/header.art" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +66,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kGwDuKVJeifLKsLh0dLkhsOuUZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -77,6 +104,7 @@
       <updated>1605340120567</updated>
       <workItem from="1605340126091" duration="2747000" />
       <workItem from="1605603514983" duration="299000" />
+      <workItem from="1605611631008" duration="9023000" />
     </task>
     <servers />
   </component>

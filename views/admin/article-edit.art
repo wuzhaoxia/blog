@@ -8,7 +8,7 @@
         <div class="main">
             <!-- 分类标题 -->
             <div class="title">
-                <h4>5b9a716cb2d2bf17706bcc0a</h4>
+                <h4>添加新的文章</h4>
             </div>
             <!-- /分类标题 -->
             <form class="form-container" action="/admin/article-add" method="post" enctype="multipart/form-data">

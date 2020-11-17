@@ -26,15 +26,11 @@ app.use(express.static(path.join(__dirname, 'public')))
 //引入路由模块
 const home = require('./route/home')
 const admin = require('./route/admin')
-const myhome = require('./route/myhome')
-const myadmin = require('./route/myadmin')
 
 //为路由匹配模块
 app.use('/home', home);
 app.use('/admin',admin);
 // app.use('/admin',require('./middleware/loginGuard'));
-app.use('/myhome', myhome);
-app.use('/myadmin', myadmin);
 app.use((err,req,res,next) =>{
     const result = JSON.parse(err)
     res.redirect(result.path + '?message=' + result.message)

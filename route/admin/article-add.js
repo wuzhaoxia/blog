@@ -26,5 +26,5 @@ module.exports = (req, res) => {
         // 将页面重定向到文章列表页面
         res.redirect('/admin/article');
     })*/
-    res.send('ok');
+    res.send('感谢您的添加');
 }

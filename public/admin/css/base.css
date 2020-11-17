@@ -47,10 +47,11 @@ h4 {
 	width: 288px;
 	line-height: 72px;
 	text-align: center;
-	color: #FFF;
+	color: #fff;
 	font-size: 18px;
 	font-weight: bold;
-	background-image: linear-gradient(100deg,#1c5de7,#1c91e7);
+	background-image: linear-gradient(100deg,#000000,#000000);
+	border-bottom: #fff solid 1px;
 }
 
 .header .logo i {
@@ -100,7 +101,7 @@ h4 {
 .aside {
 	width: 288px;
 	height: 100%;
-	background: #18202e;
+	background: #000000;
 	overflow-y: auto;
 	position: relative;
 }

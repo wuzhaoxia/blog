@@ -7,7 +7,7 @@ const admin = express.Router();
 admin.get('/login', (req, res) => {
     res.render('admin/login')
 });
-// admin.post('/login',);
+admin.post('/login',require('./admin/login'));
 //创建用户列表路由
 admin.get('/user', require('./admin/userPage'));
 admin.get('/article', require('./admin/article.js'));

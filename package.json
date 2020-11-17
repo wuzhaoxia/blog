@@ -20,5 +20,9 @@
     "joi": "^14.3.1",
     "mongoose": "^5.10.14",
     "mongoose-sex-page": "^1.2.4"
+  },
+  "devDependencies": {
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.2.0"
   }
 }

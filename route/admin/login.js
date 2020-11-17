@@ -1,11 +1,15 @@
 //导入用户集合构造函数
-const {User} = require('../model/user')
-const bcrypt = require('bcrypt')
-const login = async (req, res) => {
+// const {User} = require('../model/user')
+// const bcrypt = require('bcrypt')
+module.exports = (req, res) => {
     //接受请求参数
     const {email, password} = req.body;
-    if (email.trim().length == 0 || password.trim().length == 0) {
-        //根据邮箱地址查询用户信息
+    if(email == '13275380285@163.com'&& password == 123){
+        res.redirect('user')
+    }
+}
+    /*if (email.trim().length == 0 || password.trim().length == 0) {
+        // 根据邮箱地址查询用户信息
         let user = await User.findOne({email: email})
         if (user) {
             let isValid = await bcrypt.compare(password,user.password);
@@ -19,6 +23,6 @@ const login = async (req, res) => {
         } else {
             res.status(400).render('/admin/error', {msg: '邮件地址或密码错误'});
         }
-    }
-}
-module.exports = login;
+    }*/
+
+// module.exports = login;
