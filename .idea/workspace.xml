@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="994537ce-fe99-4a9a-96f2-ecb4b592cc69" name="Default Changelist" comment="制作个人博客第一天">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_admin/model/article.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_admin/route/admin/article-add.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_admin/route/admin/loginPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_admin/route/admin/loginout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_admin/route/admin/user-delete.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_admin/route/admin/user-modify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_admin/route/home/article.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_admin/route/home/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_admin/views/home/common/header.art" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_admin/views/home/common/layout.art" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kGwDuKVJeifLKsLh0dLkhsOuUZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="994537ce-fe99-4a9a-96f2-ecb4b592cc69" name="Default Changelist" comment="" />
+      <created>1605340120567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605340120567</updated>
+      <workItem from="1605340126091" duration="2747000" />
+      <workItem from="1605603514983" duration="299000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="制作个人博客第一天" />
+    <option name="LAST_COMMIT_MESSAGE" value="制作个人博客第一天" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1017" y="200" width="760" height="675" key="DiffContextDialog" timestamp="1605340979158">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1017" y="200" width="760" height="675" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605340979158" />
+    <state x="1272" y="327" key="FileChooserDialogImpl" timestamp="1605343039054">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1272" y="327" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605343039054" />
+    <state width="782" height="217" key="GridCell.Tab.0.bottom" timestamp="1605343040197">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="782" height="217" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605343040197" />
+    <state width="782" height="217" key="GridCell.Tab.0.center" timestamp="1605343040197">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="782" height="217" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605343040197" />
+    <state width="782" height="217" key="GridCell.Tab.0.left" timestamp="1605343040197">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="782" height="217" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605343040197" />
+    <state width="782" height="217" key="GridCell.Tab.0.right" timestamp="1605343040197">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="782" height="217" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605343040197" />
+    <state x="922" y="160" key="SettingsEditor" timestamp="1605341317541">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="160" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605341317541" />
+    <state x="989" y="269" key="Vcs.Push.Dialog.v2" timestamp="1605341014983">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="989" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605341014983" />
+    <state x="1201" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605340993103">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1201" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605340993103" />
+  </component>
+</project>
