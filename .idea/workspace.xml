@@ -19,46 +19,244 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="994537ce-fe99-4a9a-96f2-ecb4b592cc69" name="Default Changelist" comment="制作个人博客第一天">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="994537ce-fe99-4a9a-96f2-ecb4b592cc69" name="Default Changelist" comment="制作个人博客第四天，最后一次提交">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hash.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/joi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware/loginGuard.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/admin/css/base.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/home/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/home/css/base.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/myadmin/article-edit.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/myadmin/article.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/myadmin/css/user.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/myadmin/css/user.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/myadmin/css/user.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/myadmin/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/myadmin/user-edit.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/myadmin/user.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/myhome/article.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/myhome/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/myhome/css/index.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/myhome/css/index.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/myhome/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/route/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/route/admin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/route/admin/article-add.js" beforeDir="false" afterPath="$PROJECT_DIR$/route/admin/article-add.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/route/admin/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/route/admin/login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/route/admin/loginout.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/route/myadmin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/route/myhome.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/admin/article-edit.art" beforeDir="false" afterPath="$PROJECT_DIR$/views/admin/article-edit.art" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/admin/article.art" beforeDir="false" afterPath="$PROJECT_DIR$/views/admin/article.art" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/admin/common/aside.art" beforeDir="false" afterPath="$PROJECT_DIR$/views/admin/common/aside.art" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/admin/common/header.art" beforeDir="false" afterPath="$PROJECT_DIR$/views/admin/common/header.art" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/admin/login.art" beforeDir="false" afterPath="$PROJECT_DIR$/views/admin/login.art" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/admin/user-edit.art" beforeDir="false" afterPath="$PROJECT_DIR$/views/admin/user-edit.art" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/admin/user.art" beforeDir="false" afterPath="$PROJECT_DIR$/views/admin/user.art" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/home/article.art" beforeDir="false" afterPath="$PROJECT_DIR$/views/home/article.art" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/home/common/header.art" beforeDir="false" afterPath="$PROJECT_DIR$/views/home/common/header.art" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/js/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/bootstrap/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/bootstrap/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/bootstrap/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/bootstrap/css/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/bootstrap/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/ckeditor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/ckeditor.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/ast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/de-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/en-au.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/eo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/gu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/kn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/ku.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/nb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/ne.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/no.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/oc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/pt-br.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/si.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/sq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/tt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/ug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/zh-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/ckeditor5/translations/zh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/echarts/echarts.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/AUTHORS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/dist/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/dist/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/dist/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/dist/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/dist/jquery.slim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/dist/jquery.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/dist/jquery.slim.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/external/sizzle/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/external/sizzle/dist/sizzle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/external/sizzle/dist/sizzle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/external/sizzle/dist/sizzle.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/ajax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/ajax/jsonp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/ajax/load.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/ajax/parseXML.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/ajax/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/ajax/var/location.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/ajax/var/nonce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/ajax/var/rquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/ajax/xhr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/attributes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/attributes/attr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/attributes/classes(1).js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/attributes/prop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/attributes/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/attributes/val.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/callbacks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/core/DOMEval.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/core/access.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/core/camelCase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/core/init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/core/nodeName.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/core/parseHTML.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/core/ready-no-deferred.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/core/ready.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/core/readyException.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/core/stripAndCollapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/core/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/core/toType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/core/var/rsingleTag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/css.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/css/addGetHookIf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/css/adjustCSS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/css/curCSS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/css/hiddenVisibleSelectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/css/showHide.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/css/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/css/var/cssExpand.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/css/var/getStyles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/css/var/isHiddenWithinTree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/css/var/rboxStyle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/css/var/rnumnonpx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/css/var/swap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/data/Data(1).js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/data/var/acceptData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/data/var/dataPriv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/data/var/dataUser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/deferred.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/deferred/exceptionHook.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/deprecated.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/dimensions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/effects.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/effects/Tween.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/effects/animatedSelector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/event.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/event/ajax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/event/alias.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/event/focusin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/event/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/event/trigger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/exports/amd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/exports/global.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/manipulation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/manipulation/_evalUrl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/manipulation/buildFragment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/manipulation/getAll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/manipulation/setGlobalEval.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/manipulation/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/manipulation/var/rcheckableType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/manipulation/var/rscriptType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/manipulation/var/rtagName.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/manipulation/wrapMap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/offset.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/queue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/queue/delay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/selector-native.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/selector-sizzle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/selector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/serialize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/traversing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/traversing/findFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/traversing/var/dir.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/traversing/var/rneedsContext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/traversing/var/siblings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/var/ObjectFunctionString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/var/arr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/var/class2type.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/var/concat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/var/document.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/var/documentElement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/var/fnToString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/var/getProto.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/var/hasOwn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/var/indexOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/var/isFunction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/var/isWindow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/var/pnum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/var/push.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/var/rcssNum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/var/rnothtmlwhite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/var/slice.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/var/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/var/toString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/lib/jquery/src/wrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/home/css/article.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/article.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/home/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/home/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/home/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/home/images/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/home/images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/home/images/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/home/images/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/home/images/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/home/images/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/home/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/home/images/placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/home/lib/sweetalert/sweetalert.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/route/admin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/route/admin/article-add.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/route/admin/article-edit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/route/admin/article.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/route/admin/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/route/admin/loginPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/route/admin/user-delete.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/route/admin/user-edit-fn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/route/admin/user-edit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/route/admin/user-modify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/route/admin/userPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/route/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/route/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/route/home/article.js" beforeDir="false" afterPath="$PROJECT_DIR$/route/article.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/route/home/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/route/default.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/admin/article-edit.art" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/admin/article.art" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/admin/common/aside.art" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/admin/common/header.art" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/admin/common/layout.art" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/admin/error.art" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/admin/login.art" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/admin/user-edit.art" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/admin/user.art" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/home/article.art" beforeDir="false" afterPath="$PROJECT_DIR$/views/article.art" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/home/common/header.art" beforeDir="false" afterPath="$PROJECT_DIR$/views/common/header.art" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/home/common/layout.art" beforeDir="false" afterPath="$PROJECT_DIR$/views/common/layout.art" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/home/default.art" beforeDir="false" afterPath="$PROJECT_DIR$/views/default.art" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,10 +277,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../gitPractice/blog" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\桌面\前端项目\blog\views" />
+      <recent name="F:\桌面\前端项目\blog\route" />
+      <recent name="F:\桌面\前端项目\blog\public" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app.js" working-dir="$PROJECT_DIR$">
@@ -104,8 +309,17 @@
       <updated>1605340120567</updated>
       <workItem from="1605340126091" duration="2747000" />
       <workItem from="1605603514983" duration="299000" />
-      <workItem from="1605611631008" duration="9023000" />
+      <workItem from="1605611631008" duration="11410000" />
+      <workItem from="1605682081465" duration="12017000" />
     </task>
+    <task id="LOCAL-00001" summary="制作个人博客第四天，最后一次提交">
+      <created>1605621044078</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605621044078</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,41 +339,42 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="制作个人博客第一天" />
-    <option name="LAST_COMMIT_MESSAGE" value="制作个人博客第一天" />
+    <MESSAGE value="制作个人博客第四天，最后一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="制作个人博客第四天，最后一次提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1017" y="200" width="760" height="675" key="DiffContextDialog" timestamp="1605340979158">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1017" y="200" width="760" height="675" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605340979158" />
-    <state x="1272" y="327" key="FileChooserDialogImpl" timestamp="1605343039054">
+    <state x="1272" y="327" key="FileChooserDialogImpl" timestamp="1605689648605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1272" y="327" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605343039054" />
-    <state width="782" height="217" key="GridCell.Tab.0.bottom" timestamp="1605343040197">
+    <state x="1272" y="327" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605689648605" />
+    <state width="1015" height="142" key="GridCell.Tab.0.bottom" timestamp="1605660151874">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="782" height="217" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605343040197" />
-    <state width="782" height="217" key="GridCell.Tab.0.center" timestamp="1605343040197">
+    <state width="1015" height="142" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605660151874" />
+    <state width="1015" height="142" key="GridCell.Tab.0.center" timestamp="1605660151873">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="782" height="217" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605343040197" />
-    <state width="782" height="217" key="GridCell.Tab.0.left" timestamp="1605343040197">
+    <state width="1015" height="142" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605660151873" />
+    <state width="1015" height="142" key="GridCell.Tab.0.left" timestamp="1605660151873">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="782" height="217" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605343040197" />
-    <state width="782" height="217" key="GridCell.Tab.0.right" timestamp="1605343040197">
+    <state width="1015" height="142" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605660151873" />
+    <state width="1015" height="142" key="GridCell.Tab.0.right" timestamp="1605660151874">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="782" height="217" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605343040197" />
+    <state width="1015" height="142" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605660151874" />
     <state x="922" y="160" key="SettingsEditor" timestamp="1605341317541">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="160" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605341317541" />
-    <state x="989" y="269" key="Vcs.Push.Dialog.v2" timestamp="1605341014983">
+    <state x="989" y="269" key="Vcs.Push.Dialog.v2" timestamp="1605621076185">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="989" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605341014983" />
+    <state x="989" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605621076185" />
     <state x="1201" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605340993103">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

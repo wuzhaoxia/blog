@@ -4,13 +4,10 @@ const express = require('express');
 const path = require('path');
 //引入body-parser模块，用来处理post请求
 const bodyPaser = require('body-parser')
-const session = require('express-session')
 //创建网站服务器
 const app = express();
 //数据库连接
 require('./model/connect');
-// app.use(session({secret:'secret'}))
-// require('./model/user');
 //处理post请求参数
 app.use(bodyPaser.urlencoded({extended:false}))
 //告诉express框架模板所在的位置
@@ -25,12 +22,9 @@ app.use(express.static(path.join(__dirname, 'public')))
 
 //引入路由模块
 const home = require('./route/home')
-const admin = require('./route/admin')
 
 //为路由匹配模块
-app.use('/home', home);
-app.use('/admin',admin);
-// app.use('/admin',require('./middleware/loginGuard'));
+app.use('/', home);
 app.use((err,req,res,next) =>{
     const result = JSON.parse(err)
     res.redirect(result.path + '?message=' + result.message)
